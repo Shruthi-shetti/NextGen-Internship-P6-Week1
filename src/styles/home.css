@@ -36,7 +36,7 @@
 .services__subtitle{
     font-size: 2.2rem;
     font-weight: 500;
-    color: #ee6e6e;
+    color: #2292d7;
     font-family: var(--subtitle-font-name);
 }
 .services__title{
@@ -73,7 +73,7 @@
     align-items: center;
     justify-content: center;
     background: var(--primary-color);
-    color: #fff;
+    color: #139eb4;
     font-size: 1.6rem;
     font-weight: 600;
     border-radius: 10px 5px 10px 5px;

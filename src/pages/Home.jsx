@@ -27,7 +27,7 @@ const Home = () => {
           </div>
           <h1>Traveling opens the door to creating <span className="highlight">
             memories</span></h1>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi ut voluptatum quisquam error facilis eum rerum, ratione accusamus molestias fugiat consequatur repellendus pariatur numquam ea dolor! Eligendi sunt ab nostrum?</p>
+            <p>Travelling is an amazing way to learn a lot of things in life. A lot of people around the world travel every year to many places.</p>
         </div>
         </Col>
         <Col lg="2">
@@ -79,20 +79,19 @@ const Home = () => {
           <div className="experience__countent">
           <Subtitle subtitle={'Experience'}/> 
         <h2 >With our all experience <br/> we will serve you </h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-          <br />
-           Quam veniam eveniet voluptate voluptatibus.</p>
+        <p>We love getting to know our clients. We welcome you to visit our friendly staff at one of the following locations. No matter what... we are only a call or click away! 
+         </p>
            <div className="counter__wrapper d-flex align-items-center gap-5">
             <div className="counter__box">
-              <span>12K+</span>
+              <span>20K+</span>
               <h6>Successful trip</h6>
             </div>
             <div className="counter__box">
-              <span>2K+</span>
+              <span>5K+</span>
               <h6>Regular clients</h6>
             </div>
             <div className="counter__box">
-              <span>15</span>
+              <span>25</span>
               <h6>Years experience</h6>
             </div>
            </div>

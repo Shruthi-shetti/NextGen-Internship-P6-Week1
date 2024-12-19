@@ -36,11 +36,10 @@ const Testimonials = () => {
   return (
  <Slider {...settings}>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>I booked through Go Travel as well. I haven't 
+    heard anything bad about them. One reviewer a 
+    while back said that she was very pleased with
+     their service and would book through them again.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava01} className='w-25 h-25 rounded-2' alt="" />
@@ -51,11 +50,10 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>We travelled with GO travel. The rep at the resort
+     (Coralia) was pleasant but definitely inexperienced. 
+     Our return flight was delayed 6 hours. The transport
+      bus did not arriveat the hotel .</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
@@ -66,11 +64,10 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>We used Travel Direct to book the Coralia leaving 
+    April 10 via Halifax. We have never used them before,
+     but have talked to several people who have and never
+      had any problems.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -81,11 +78,10 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>we have booked a total of 3 times with Go Travel and 
+    never had any problems.As to the Rep at the Coralia,
+     she was nice enough, but there was something about
+      her we could not put our finger on.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava03} className='w-25 h-25 rounded-2' alt="" />
@@ -96,11 +92,9 @@ const Testimonials = () => {
 </div>
 </div>
 <div className="testimonial py-4 px-3">
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-    Alias asperiores nisi quo, suscipit placeat consequuntur 
-    neque, delectus culpa eaque consectetur dolore at, voluptatum ipsa! 
-    Maxime, dicta.
-     Dicta libero obcaecati expedita.</p>
+<p>This is my second time booking with Go Travel. 
+    We got bumped due to overbooking. The rep blamed 
+    the hotel saying they do this all the time.</p>
 
 <div className="d-flex align-items-center gap-4 mt-3">
 <img src={ava02} className='w-25 h-25 rounded-2' alt="" />
